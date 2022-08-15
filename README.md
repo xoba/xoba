@@ -1,1 +1,1 @@
-testing out the new github repository readme feature
+sharing some useful code with the world
